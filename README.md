@@ -1,0 +1,2 @@
+# Lamasik-script
+asd
